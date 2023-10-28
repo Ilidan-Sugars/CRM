@@ -1,4 +1,4 @@
-<?php 
+<?php
 $title = "Вход";
 $css = "index.css";
 require "block_front/header.php";
