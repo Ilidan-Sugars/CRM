@@ -13,11 +13,11 @@ require "block_front/header.php";
 
                     
                     <h5>Ведите логин</h5>
-                    <input type="text" name="user_login" maxlength="30"> <br>
+                    <input type="text" name="input_login" maxlength="30">
                     <h5>Ведите пароль</h5>
-                    <input type="password" name="password" maxlength="32">
+                    <input type="password" name="input_password" maxlength="32">
                     <h5>Повторите пароль</h5>
-                    <input type="password" name="repeat-password" maxlength="32">
+                    <input type="password" name="input_password_repeat" maxlength="32">
                     <div class="mb-3">
                         <button class="btn btn-light" type="submit">Зарегестрироваться</button>
                     </div>
